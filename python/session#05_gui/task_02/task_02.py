@@ -6,6 +6,8 @@
 #  Also We will have label to indicate if the LED ON/OFF
 ###########################################################################################################################
 
+# Ref: https://stackoverflow.com/questions/31128780/tkinter-how-to-make-a-button-center-itself
+
 from tkinter import *
 
 canvas_width = 100
