@@ -1,3 +1,10 @@
+#!/usr/bin/python3
+
+################################################### Task #3 description ###################################################
+#  Write a program in Python that displays a window to the user that asks them to enter an integer
+#  N and displays its factorial
+###########################################################################################################################
+
 from tkinter import *
 
 def action():
